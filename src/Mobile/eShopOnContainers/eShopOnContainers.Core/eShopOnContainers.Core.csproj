@@ -16,7 +16,7 @@
     <PackageReference Include="System.ComponentModel.Annotations" Version="4.5.0" />
     <PackageReference Include="Acr.UserDialogs" Version="7.0.1" />
     <PackageReference Include="SlideOverKit" Version="2.1.6.1" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Xam.Plugin.Media" Version="4.0.1.1" />
     <PackageReference Include="IdentityModel" Version="3.8.0" />
   </ItemGroup>
