@@ -6,6 +6,6 @@
   "dependencies": {
     "@aspnet/signalr": "1.0.4",
     "toastr": "^2.1.4",
-    "bootstrap": "3.4.1"
+    "bootstrap": "5.0.0"
   }
 }
